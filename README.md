@@ -1,1 +1,0 @@
-# friday-breach-mutation-testing
